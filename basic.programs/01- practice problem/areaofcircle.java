@@ -1,4 +1,4 @@
-class AreaOfCircle{
+class areaOfCircle{
 public static void main(String[] args){
 	   double pi = Math.PI;
 	   int radius = 3;
